@@ -1,6 +1,6 @@
 # Data-Analysis
 
-# Data Science Model
+## Data Science Model
 
 This project involves a data science model designed to analyze and interpret data. The code and resources provided are aimed at understanding data patterns and making data-driven decisions.
 
